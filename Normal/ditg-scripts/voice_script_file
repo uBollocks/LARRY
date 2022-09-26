@@ -1,1 +1,0 @@
--a 10.0.0.5 -rp 1005 VoIP -x G.711.2 -h RTP -VAD
